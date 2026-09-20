@@ -1,2 +1,2 @@
 # Doors
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Finalelele/Doors/refs/heads/main/Loader.lua?t="..tick()))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Finalelele/Doors/refs/heads/main/Doors%20All.lua?t="..tick()))()
